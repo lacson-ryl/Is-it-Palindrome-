@@ -32,6 +32,11 @@ label, input, p {
   margin: 15px auto 20px;
   font-size: 18px;
 }
+
+#result {
+  font-size: 18px;
+}
+
 p, svg {
   display: flex;
   align-items: flex-start;
