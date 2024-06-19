@@ -1,4 +1,5 @@
-Date Finished: June, 2024.
+First project to use HTML, CSS & Javascript together.
 
-To see a Preview of the HTML and CSS project. go to the website called [ https://htmlpreview.github.io/ ]
-then paste this in the url --->>> [  https://github.com/lacson-ryl/Is-it-Palindrome-/blob/main/palindromeProject.html  ]
+click here to see preview --->>> [  https://htmlpreview.github.io/?https://github.com/lacson-ryl/Is-it-Palindrome-/blob/main/palindromeProject.html  ]
+
+Date Finished: June, 2024.
