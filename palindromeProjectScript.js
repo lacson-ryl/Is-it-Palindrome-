@@ -19,4 +19,5 @@ const checkForPalInput = (input) => {
 
 palCheckBtn.addEventListener("click", () => {
   checkForPalInput(palTextInput.value);
+  event.preventDefault();
 });
